@@ -7,6 +7,7 @@ def usage():
 
 
 def transpose_reference(ref):
+    """Quackle and ISC have the horizonal and vertical grid references transposed"""
     # A = 65; O = 79
     if len(ref) == 3:
         try:
