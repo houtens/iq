@@ -10,7 +10,7 @@ Requires Python3 and Chrome browser. This should work in other browsers that hav
 - Go to Network tab, then WS (websockets)
 - Now log in to https://isc.ro
 - You should see a `MAINSERVER` request in dev tools, click it
-- Load a game you wish to export 'examine history avruga 0'
+- Load a game you wish to export `examine history avruga 0`
 - In the Data pane you find the request `EXAMINE HISTORY...`, right click and Copy
 - Save the copied data to a file
 
