@@ -16,5 +16,5 @@ Requires Python3 and Chrome browser. This should work in other browsers that hav
 
 ### Running from command line
 
-`python3 iq.py <inputfile>`
+`python3 iq.py <inputfile> > <outputfile>`
 
